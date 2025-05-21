@@ -4,7 +4,7 @@ The primary objective is to produce graphs examining user interaction patterns w
 ![image](https://github.com/user-attachments/assets/6a665986-e4b4-485c-8878-efc189e7b98a)
 ![image](https://github.com/user-attachments/assets/559fe411-8d74-4c5b-a9cb-9c72ecfcfb1c)
 
-==============================================================================================
+============================================================================================
 Newsfeed posts have the following subtypes:
 
     Career track certificate (automated): Denotes earning certificates for completing career tracks.
@@ -16,7 +16,7 @@ Newsfeed posts have the following subtypes:
     Text post (manual): Involves user-generated textual content sharing personal opinions and observations.
 
 
-==============================================================================================
+============================================================================================
 Monthly Post Activity and Average Likes:
 
         A dual chart with a bar chart that displays the monthly count of posts and relevant average likes per post. This graph provides insights into the content's popularity.
@@ -25,7 +25,7 @@ Monthly Post Activity and Average Likes:
 
 ![image](https://github.com/user-attachments/assets/75560b60-295f-48bb-bc82-a0c3744aec4d)
 
-==============================================================================================
+============================================================================================
 Two vertical bar charts that rank the following post subtypes:
 
         The first chart shows the overall number of posts per subtype.
@@ -34,7 +34,47 @@ Two vertical bar charts that rank the following post subtypes:
 Subtype Post Distribution:
 ![image](https://github.com/user-attachments/assets/466f451f-95cf-4026-80aa-325656bfaff9)
 
-==============================================================================================
+============================================================================================
+Subtype Popularity Measured in Likes:
+![image](https://github.com/user-attachments/assets/8535de9b-358d-43e5-93b9-23a2856f55f5)
+
+============================================================================================
+One Donat Chart that rank the following post subtypes: 
+
+Subtype Popularity Measured in Comments:
+![image](https://github.com/user-attachments/assets/88491517-d5da-4882-b254-8b9e11b28ff7)
+
+============================================================================================
+Insights:
+
+        After examining all subtypes using the appropriate dashboard filter, it's evident that the Level-type and Collection-type posts are the least popular.
+        This observation is supported by the graph showing monthly average likes and the ratio of likes to the total number of posts.
+        
+        Collection: Out of  9,376 posts 170 received likes
+        Level: Out of 22,313 posts, 422 received likes.
+        The notably low average of around 0.02 likes per post for both categories underscores this conclusion.
+
+        We should consult the Subtype Post Distribution graph to determine the most and least frequent post types.
+        This visualization indicates that the Level-type posts are the most prevalent, appearing 22,313 times,
+        whereas the Career Track Certificate posts are the least frequent, with only 144 instances.
+        The count is comparable to the second least common post subtype—the manual Text post, with 150 examples.
+
+        Based on our observations, Level-type posts dominate the newsfeed, surpassing all other subtypes.
+        Their total count is twice that of the runner-up, the Course Certificate post. Despite their frequency,
+        the trend indicates that Level-type posts—alongside the Collection post subtype—generate minimal interest and seldom entice users to engage with likes.
+
+        This suggests that Level-type posts might be saturating the newsfeed with content users don't find compelling,
+        thereby diminishing their overall experience with the feature.
+        A wise strategy might be to reevaluate how these posts are generated and curtail their prevalence on the newsfeed.
+        More engaging posts can take the forefront, potentially elevating user engagement and bolstering interest in the feature—ensuring
+        more captivating posts remain visible rather than those with fewer likes
+
+
+
+
+
+
+
 
 
 
